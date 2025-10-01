@@ -60,7 +60,7 @@ This makes staking more accessible, liquid, and community-driven.
 - Lock/unlock forms for stakers.  
 - Marketplace for buying/selling staked positions.  
 - WalletConnect integration.  
-- Hosted at **[https://qstake.org](https://qstake.org)** (example).  
+- Hosted at **[https://qstake.org](https://qstake.org)**
 
 ### Smart Contracts  
 - **Pool Factory:** Deploy new staking pools for any token.  
@@ -145,7 +145,6 @@ This makes staking more accessible, liquid, and community-driven.
 - **Serendıpıtч** — Lead Frontend Developer (UI/UX)  
 - **Poly** — Lead Smart Contract Developer  
 
-**Website:** [https://qxmr.quest](https://qxmr.quest)  
-**X:** [@_qxmr_token_](https://x.com/_qxmr_token_)  
+**Website:** [https://qstake.org](https://qstake.org)  
 
 ---
