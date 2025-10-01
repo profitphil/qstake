@@ -60,7 +60,7 @@ This makes staking more accessible, liquid, and community-driven.
 - Lock/unlock forms for stakers.  
 - Marketplace for buying/selling staked positions.  
 - WalletConnect integration.  
-- Hosted at **[https://stake.qubic.org](https://stake.qubic.org)** (example).  
+- Hosted at **[https://qstake.org](https://qstake.org)** (example).  
 
 ### Smart Contracts  
 - **Pool Factory:** Deploy new staking pools for any token.  
