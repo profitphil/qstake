@@ -1,4 +1,4 @@
-# 🪙 Universal Staking Platform Proposal  
+# 🪙 Qstake: Universal Staking Platform Proposal  
 ## Create, Manage, and Trade Staking Pools for Any Token  
 
 ---
@@ -53,9 +53,12 @@ This makes staking more accessible, liquid, and community-driven.
 - **Pool Fees:** 
 - 3% Shareholders
 - 1% Dev team
+- **Optional Pool Fees:** 
+- Each pool creator will have the ability to create up to three customized fee options
+- Possible Examples:
 - 2% Burn (optional)
 - 1% Charity (optional)
-
+- 1% Team (optional)
 ---
 
 ## 4. Components to Be Developed  
