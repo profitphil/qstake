@@ -1,4 +1,4 @@
-# 🪙 Qstake: Universal Staking Platform Proposal  
+# Qstake: Universal Staking Platform Proposal  
 ## Create, Manage, and Trade Staking Pools for Any Token  
 
 ---
@@ -90,19 +90,21 @@ This makes staking more accessible, liquid, and community-driven.
 
 ### A. Pool Creator  
 1. Connect wallet.  
-2. Launch a new staking pool (define token, duration options, reward mechanics, optional burns/charity/dividends).  
+2. Launch a new staking pool (define token, duration options, reward mechanics, optional fees).  
 3. Pool becomes visible in the global dashboard.  
 
 ### B. Staker  
-1. Browse active pools.  
-2. Stake tokens by selecting amount and lock period.  
-3. View live analytics: rewards, APY, burn boosts.  
-4. (Optional) Burn tokens to boost APY.  
+1. Connect wallet
+2. Browse active pools.
+3. Stake tokens by selecting amount and lock period.  
+4. View live analytics: rewards, APY, burn boosts.  
+5. (Optional) Burn tokens to boost APY.  
 
 ### C. Marketplace Trader  
-1. Browse listed staked positions in the marketplace.  
-2. Purchase locked positions (inherits remaining time and reward stream).  
-3. Sellers gain liquidity without penalty, buyers acquire discounted yield positions.  
+1. Connect wallet
+2. Browse listed staked positions in the marketplace.
+3. Purchase locked positions (inherits remaining time and reward stream).  
+4. Sellers gain liquidity without penalty, buyers acquire discounted yield positions.  
 
 ---
 
