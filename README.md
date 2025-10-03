@@ -9,7 +9,7 @@ This proposal outlines the development of a **universal staking platform** on Qu
 
 The platform empowers **pool creators** to launch staking pools with flexible terms, while **stakers** can participate by locking tokens and earning rewards. A built-in **marketplace** allows stakers to **buy and sell staked positions** without unstaking, adding liquidity and flexibility to long-term commitments.  
 
-**Funding Request:** $18,000 USD (6B Qu @ 0.000003)  
+**Funding Request:** $18,000 USD (9.5B Qu @ 0.0000019)  
 **Destination Wallet:** `GBBDPCKSUDPTAFOIROJCFPRLEPXBJSTMKFONPDVBHBWTPUDVFEKRYPSBLLIA`  
 
 ---
