@@ -69,7 +69,7 @@ This makes staking more accessible, liquid, and community-driven.
 - Lock/unlock forms for stakers.  
 - Marketplace for buying/selling staked positions.  
 - WalletConnect integration.  
-- Hosted at **[https://qstake.org][(https://68e01deb3b1df70082fe7731--qstake.netlify.app/)]** LIVE DEMO
+- Hosted at **[https://qstake.org](https://68e01deb3b1df70082fe7731--qstake.netlify.app/)** LIVE DEMO
 
 ### Smart Contracts  
 - **Pool Factory:** Deploy new staking pools for any token.  
