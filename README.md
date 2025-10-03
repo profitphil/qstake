@@ -50,6 +50,12 @@ Staking has become a cornerstone of DeFi ecosystems. However, most platforms are
 
 This makes staking more accessible, liquid, and community-driven.  
 
+- **Pool Fees:** 
+- 3% Shareholders
+- 1% Dev team
+- 2% Burn (optional)
+- 1% Charity (optional)
+
 ---
 
 ## 4. Components to Be Developed  
