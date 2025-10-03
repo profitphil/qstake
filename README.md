@@ -53,6 +53,7 @@ This makes staking more accessible, liquid, and community-driven.
 - **Pool Fees:** 
 - 3% Shareholders
 - 1% Dev team
+
 - **Optional Pool Fees:** Each pool creator will have the ability to create up to three customized fee options
 - Possible Examples:
 - 2% Burn (optional)
@@ -68,7 +69,7 @@ This makes staking more accessible, liquid, and community-driven.
 - Lock/unlock forms for stakers.  
 - Marketplace for buying/selling staked positions.  
 - WalletConnect integration.  
-- Hosted at **[https://qstake.org](https://qstake.org)**
+- Hosted at **[https://qstake.org](https://qstake.org)** LIVE DEMO
 
 ### Smart Contracts  
 - **Pool Factory:** Deploy new staking pools for any token.  
